@@ -1,4 +1,5 @@
-Tugas UTS Pemograman Web 2025
-Nama: Fadlan Amar Ma'ruf
-Kelas: 4A
-NIM: 12350111058
+# Tugas UTS Pemrograman Web 2025
+
+**Nama:** Fadlan Amar Ma'ruf  
+**Kelas:** 4A  
+**NIM:** 12350111058  
